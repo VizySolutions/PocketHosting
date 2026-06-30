@@ -103,7 +103,7 @@ Projeto desenvolvido por: **Vizy Solutions**
 
 - Termos de serviço: https://vizysolutions.cloud/termos-de-servico-vizy-solutions.pdf
 - Política de privacidade: https://vizysolutions.cloud/politica-de-privacidade-vizy-solutions.pdf
-- Comunidade no Discord: https://discord.gg/Tp4kJV6Khm
+- Comunidade no Discord: https://discord.gg/kDxM9Ks5U2
 - Site: https://www.vizysolutions.cloud
 
 ---
