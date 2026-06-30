@@ -113,6 +113,11 @@ Aplicativo: **PocketHosting**
 
 ---
 
+---
+## Importante
+
+O PocketHosting não possui vírus ou arquivos maliciosos. Para sua segurança, baixe o aplicativo somente pelo repositório oficial do PocketHosting. Arquivos baixados de fontes externas ou modificadas não são de responsabilidade do projeto e podem não ser seguros.
+
 ## Licença
 
 Este projeto é mantido pela Vizy Solutions.
