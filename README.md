@@ -109,6 +109,7 @@ Aplicativo: **PocketHosting**
 - Termos de serviço: https://vizysolutions.cloud/termos-de-servico-vizy-solutions.pdf
 - Política de privacidade: https://vizysolutions.cloud/politica-de-privacidade-vizy-solutions.pdf
 - Comunidade no Discord: https://discord.gg/Tp4kJV6Khm
+- Site: https://www.vizysolutions.cloud
 
 ---
 
