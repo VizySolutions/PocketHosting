@@ -96,12 +96,7 @@ Para servidores públicos com muitos jogadores, uso comercial intenso ou ambient
 
 ## Empresa
 
-Projeto desenvolvido por:
-
-**Vizy Solutions**
-
-Aplicativo: **PocketHosting**  
-
+Projeto desenvolvido por: **Vizy Solutions**
 ---
 
 ## Links
@@ -113,7 +108,6 @@ Aplicativo: **PocketHosting**
 
 ---
 
----
 ## Importante
 
 O PocketHosting não possui vírus ou arquivos maliciosos. Para sua segurança, baixe o aplicativo somente pelo repositório oficial do PocketHosting. Arquivos baixados de fontes externas ou modificadas não são de responsabilidade do projeto e podem não ser seguros.
