@@ -117,3 +117,10 @@ O PocketHosting não possui vírus ou arquivos maliciosos. Para sua segurança, 
 Este projeto é mantido pela Vizy Solutions.
 
 PocketMine-MP é um projeto independente. Este aplicativo atua como um gerenciador mobile para executar e administrar servidores PocketMine-MP em dispositivos Android.
+
+## Imagens do Aplicativo
+
+![server](https://github.com/VizySolutions/PocketHosting/blob/main/server.png)
+![console]([https://github.com](https://github.com/VizySolutions/PocketHosting/blob/main/console.png))
+![files](https://github.com/VizySolutions/PocketHosting/blob/main/files.png)
+![settings](https://github.com/VizySolutions/PocketHosting/blob/main/settings.png)
