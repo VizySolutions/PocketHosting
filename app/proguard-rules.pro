@@ -1,0 +1,1 @@
+# PocketHosting project rules

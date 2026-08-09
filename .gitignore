@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local SDK configuration
+local.properties
+
+# Signing keys / secrets
+*.jks
+*.keystore
+keystore.properties
+
+# Native build output
+.externalNativeBuild/
+.cxx/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# APK / Bundle build artifacts
+*.apk
+*.aab

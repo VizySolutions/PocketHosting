@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ci_archive" id="0x7f010000" />
+    <public type="drawable" name="ci_book" id="0x7f010001" />
+    <public type="drawable" name="ci_chart" id="0x7f010002" />
+    <public type="drawable" name="ci_code" id="0x7f010003" />
+    <public type="drawable" name="ci_code_w" id="0x7f010004" />
+    <public type="drawable" name="ci_command" id="0x7f010005" />
+    <public type="drawable" name="ci_console" id="0x7f010006" />
+    <public type="drawable" name="ci_console_w" id="0x7f010007" />
+    <public type="drawable" name="ci_discord" id="0x7f010008" />
+    <public type="drawable" name="ci_download" id="0x7f010009" />
+    <public type="drawable" name="ci_download_package" id="0x7f01000a" />
+    <public type="drawable" name="ci_edit" id="0x7f01000b" />
+    <public type="drawable" name="ci_file" id="0x7f01000c" />
+    <public type="drawable" name="ci_files" id="0x7f01000d" />
+    <public type="drawable" name="ci_files_w" id="0x7f01000e" />
+    <public type="drawable" name="ci_folder" id="0x7f01000f" />
+    <public type="drawable" name="ci_folder_open" id="0x7f010010" />
+    <public type="drawable" name="ci_link" id="0x7f010011" />
+    <public type="drawable" name="ci_moon" id="0x7f010012" />
+    <public type="drawable" name="ci_play" id="0x7f010013" />
+    <public type="drawable" name="ci_server" id="0x7f010014" />
+    <public type="drawable" name="ci_server_w" id="0x7f010015" />
+    <public type="drawable" name="ci_settings" id="0x7f010016" />
+    <public type="drawable" name="ci_settings_w" id="0x7f010017" />
+    <public type="drawable" name="ci_stop" id="0x7f010018" />
+    <public type="drawable" name="ci_sun" id="0x7f010019" />
+    <public type="drawable" name="ci_trash" id="0x7f01001a" />
+    <public type="drawable" name="ci_upload" id="0x7f01001b" />
+    <public type="drawable" name="ic_launcher" id="0x7f01001c" />
+    <public type="drawable" name="ic_launcher_background" id="0x7f01001d" />
+    <public type="mipmap" name="ic_launcher" id="0x7f020000" />
+    <public type="mipmap" name="ic_launcher_foreground" id="0x7f020001" />
+    <public type="mipmap" name="ic_launcher_round" id="0x7f020002" />
+    <public type="string" name="app_name" id="0x7f030000" />
+    <public type="style" name="AppTheme" id="0x7f040000" />
+</resources>
