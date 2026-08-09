@@ -130,5 +130,7 @@ Altay es un proyecto independiente. Esta aplicación funciona como un administra
 ---
 
 ## Imágenes de la aplicación
-
-_Las imágenes y capturas de pantalla de la aplicación podrán añadirse en esta sección._
+[server](https://github.com/VizySolutions/PocketHosting/blob/main/server.png)
+[console](https://github.com/VizySolutions/PocketHosting/blob/main/console.png)
+[files](https://github.com/VizySolutions/PocketHosting/blob/main/files.png)
+[settings](https://github.com/VizySolutions/PocketHosting/blob/main/settings.png)
