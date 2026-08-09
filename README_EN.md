@@ -130,5 +130,7 @@ Altay is an independent project. This application acts as a mobile manager for r
 ---
 
 ## Application Screenshots
-
-_Application images and screenshots may be added to this section._
+[server](https://github.com/VizySolutions/PocketHosting/blob/main/server.png)
+[console](https://github.com/VizySolutions/PocketHosting/blob/main/console.png)
+[files](https://github.com/VizySolutions/PocketHosting/blob/main/files.png)
+[settings](https://github.com/VizySolutions/PocketHosting/blob/main/settings.png)
