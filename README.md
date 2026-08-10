@@ -1,5 +1,9 @@
 # PocketHosting
 
+![Release](https://img.shields.io/github/v/release/VizySolutions/PocketHosting?label=release)
+![Downloads](https://img.shields.io/github/downloads/VizySolutions/PocketHosting/total?label=downloads%40total)
+![Latest Downloads](https://img.shields.io/github/downloads/VizySolutions/PocketHosting/latest/total?label=downloads%40latest)
+
 **Idioma:** 🇧🇷 **Português** | 🇺🇸 [English](README_EN.md) | 🇪🇸 [Español](README_ES.md)
 
 ---
